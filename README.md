@@ -7,6 +7,7 @@
 # Route based Middlewares
 # Global Middlewares
 
+
 <!-- WHY Middleware -->
 - manages the flow of control
 - code reusability esp for restrivted routes
