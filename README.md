@@ -11,8 +11,6 @@
 
 
 
-
-
 // GIT link..go thourgh this code thoroughly..it will result in a confusion when you are going though the code- postman se hit kar rhe hai and same axios se bhi hit kar rhe hai ..why?
 // a short video ..4-5 mins  summary on what we covered today
 // An asignment :
@@ -30,8 +28,9 @@ Create API's to do each of the following:
                     .......
                     ]
 
-3. Axios POST request assignment
 
+
+3. Axios POST request assignment
             1. Get all the memes at Postman (https://api.imgflip.com/get_memes)
             2. Pick a memeId you want (Eg 129242436) for the POST request
             3. Create a Post request (https://api.imgflip.com/caption_image) with only query params. Following are the params (copy username and password exactly as given below):
